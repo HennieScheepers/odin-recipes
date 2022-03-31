@@ -1,0 +1,23 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: bisque;
+}
+
+h1,
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  text-decoration: dotted;
+}
+
+h1 {
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+
+img {
+  text-align: center;
+  border-style: dotted;
+  border-radius: 10px;
+  border-color: black;
+}
